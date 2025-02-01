@@ -16,6 +16,8 @@ The goal of this project is to create an interactive dashboard to analyze food p
 
 ## Dashboard Interaction
 - <a href="https://github.com/Khairunsa/Food-Sales-Dashboard/blob/main/Food%20Sales%20Dashboard%20Image.PNG">View Dashboard</a>
+![Uploading Food Sales Dashboard Image.PNG…]()
+
 - Filter by Date Range: Analyze sales within specific time periods.
 - Filter by City/Region: Compare sales across different locations.
 - Visualize Top Products: Identify best-selling products.
