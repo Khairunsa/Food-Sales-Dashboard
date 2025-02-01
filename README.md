@@ -5,3 +5,4 @@ Food Sales Data Analytics Dashboard analyzes food product sales, featuring KPIs 
 The goal of this project is to create an interactive dashboard to analyze food product sales data, helping businesses understand sales trends, product performance, and customer preferences to drive growth and achieve sales targets.
 
 ## Dataset Used
+- <a href="https://github.com/Khairunsa/Food-Sales-Dashboard/blob/main/foodsales.xlsx">Dataset</a>
