@@ -16,7 +16,6 @@ The goal of this project is to create an interactive dashboard to analyze food p
 
 ## Dashboard Interaction
 - <a href="https://github.com/Khairunsa/Food-Sales-Dashboard/blob/main/Food%20Sales%20Dashboard%20Image.PNG">View Dashboard</a>
-![Uploading Food Sales Dashboard Image.PNG…]()
 
 - Filter by Date Range: Analyze sales within specific time periods.
 - Filter by City/Region: Compare sales across different locations.
@@ -37,3 +36,6 @@ The goal of this project is to create an interactive dashboard to analyze food p
 
 ## Final Conclusion
 To boost sales, businesses should focus on high-performing product categories and regions while addressing underperforming areas. Targeted marketing campaigns and inventory adjustments based on seasonal trends can help achieve the $50,000 sales target and drive future growth.
+
+## Dashboard
+![Food Sales Dashboard Image](https://github.com/user-attachments/assets/9f06e293-6acf-478f-b368-6a1fb7cc9884)
