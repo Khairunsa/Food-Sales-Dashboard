@@ -15,7 +15,7 @@ The goal of this project is to create an interactive dashboard to analyze food p
 - How do monthly sales trends look over the years?
 
 ## Dashboard Interaction
-- <a href="https://github.com/Khairunsa/Food-Sales-Dashboard/blob/main/Food%20Sales%20Dashboard%20Image.PNG">View Dashboard</a>
+- <a href="https://food-sales-dashboard.streamlit.app/">View Dashboard</a>
 
 - Filter by Date Range: Analyze sales within specific time periods.
 - Filter by City/Region: Compare sales across different locations.
