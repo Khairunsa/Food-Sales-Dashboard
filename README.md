@@ -29,6 +29,9 @@ The goal of this project is to create an interactive dashboard to analyze food p
 - Integrated filters (city, region, category) for dynamic data exploration.
 - Built the dashboard using Streamlit for interactive and user-friendly analysis.
 
+## Dashboard
+![Food Sales Dashboard Image](https://github.com/user-attachments/assets/9f06e293-6acf-478f-b368-6a1fb7cc9884)
+
 ## Project Insights
 - Sales trends vary significantly by city and region, with potential growth opportunities in underperforming areas.
 - Certain product categories (e.g., Whole Wheat, Banana) show higher sales volumes.
@@ -36,6 +39,3 @@ The goal of this project is to create an interactive dashboard to analyze food p
 
 ## Final Conclusion
 To boost sales, businesses should focus on high-performing product categories and regions while addressing underperforming areas. Targeted marketing campaigns and inventory adjustments based on seasonal trends can help achieve the $50,000 sales target and drive future growth.
-
-## Dashboard
-![Food Sales Dashboard Image](https://github.com/user-attachments/assets/9f06e293-6acf-478f-b368-6a1fb7cc9884)
